@@ -1,3 +1,4 @@
+![tic-tac-toe-program](https://user-images.githubusercontent.com/61627702/130358762-21274bfe-630b-46f9-943f-6979d9bed651.jpg)
 # Tic-Tac-Toe (Dark Mode Edition)
 
 Description:
